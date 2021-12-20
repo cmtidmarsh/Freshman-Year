@@ -1,0 +1,3 @@
+rent,1500
+water,100
+popcorn,10

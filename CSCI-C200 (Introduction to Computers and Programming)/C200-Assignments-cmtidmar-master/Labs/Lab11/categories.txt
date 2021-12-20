@@ -1,0 +1,6 @@
+rent ABC housing
+water ABC housing
+fuel ABC transportation
+internet ABC technology
+celery ABC food
+milk ABC food
