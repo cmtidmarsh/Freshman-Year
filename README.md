@@ -1,2 +1,2 @@
 # Freshman-Year
-College Freshman Year Final Project Assignments
+Loyola University Chicago and Indiana University - Undergrad. Projects
