@@ -1,0 +1,10 @@
+
+Welcome to Rainbow Runner!
+
+How far can you get?
+Use the left and right arrow keys to fall through
+the gaps and to collect special features (speedups and speed blocks)
+throughout gameplay.
+
+If you rise to the top, you lose!
+Good Luck!

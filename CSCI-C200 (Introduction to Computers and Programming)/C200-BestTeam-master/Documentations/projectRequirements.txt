@@ -1,0 +1,32 @@
+C200 Final Project
+
+chec Inheritance: 
+	⁃	superclass = shapes
+	⁃	 subclasses = speedups, slow downs
+
+ check User interaction
+	⁃	Writing a username to begin?
+	⁃	Button for instructions on the terminal?
+	⁃	Moving the sprite left and right
+
+check Documentation
+	⁃	
+File Reading and Writing
+	⁃	Scoreboard
+	⁃	check Exceptions and Handling Exceptions
+	⁃	
+check Utilizing Mods
+	⁃	Pygame
+
+check Looping
+
+<<<<<<< HEAD
+Conditionals
+check Conditionalsq
+=======
+<<<<<<< HEAD
+Conditionals
+=======
+check Conditionalsq
+>>>>>>> 5d7fa1e8a3eb7a347d08be2e03366c7b91030db2
+>>>>>>> e72470e8ede6266ab407f2e365d4763ec622c37f
